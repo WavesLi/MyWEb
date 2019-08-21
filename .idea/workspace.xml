@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb46251d-8a11-48d5-b2d2-270c38c447d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/apps/app01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/apps/app01/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/apps/app02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/apps/app02/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back-end/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/src/App.vue.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tech-doc/flask-blueprint.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tech-doc/flask-core.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyWeb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/App.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,19 +73,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tech-doc/flask-core.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="SECOND">
               <first_editor relative-caret-position="204">
-                <caret line="12" column="14" lean-forward="true" selection-end-line="12" selection-end-column="45" />
+                <caret line="12" column="14" selection-end-line="12" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tech-doc/flask-blueprint.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
@@ -261,6 +249,12 @@
             <path>
               <item name="MyWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyWeb" type="462c0819:PsiDirectoryNode" />
               <item name="tech-doc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -412,14 +406,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,7 +421,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32972974" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.27837837" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49928468" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -632,21 +625,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tech-doc/flask-core.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="14" lean-forward="true" selection-end-line="12" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tech-doc/flask-blueprint.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
           <first_editor relative-caret-position="34">
             <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tech-doc/flask-core.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="14" selection-end-line="12" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
