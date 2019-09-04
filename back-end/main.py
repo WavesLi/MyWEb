@@ -10,7 +10,7 @@ from apps.app02.index import app02
 app = Flask(__name__)
 
 app.register_blueprint(app01)
-app.register_blueprint(app01,url_prefix='/getMsg')
+app.register_blueprint(app01,url_prefix='/getMsg/')
 app.register_blueprint(app02,url_prefix='/app02')
 
 
