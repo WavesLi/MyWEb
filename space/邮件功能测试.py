@@ -44,6 +44,7 @@ app.config.update(
 @app.route('/')
 def sendEmail():
     '''To:must be a list'''
+
     # From填写的电子邮箱地址必须与前面配置的相同
     From = '18301411335@qq.com'
     # 目标邮箱地址，可以替换为自己的QQ邮箱地址
